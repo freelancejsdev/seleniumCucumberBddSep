@@ -1,0 +1,4 @@
+pageObjects/RegisterPage.class
+pageObjects/LoginPage.class
+base/BasePage.class
+pageObjects/HomePage.class
